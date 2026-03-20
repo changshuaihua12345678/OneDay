@@ -214,7 +214,6 @@ const Submit = () => {
     <div><el-button class="but" @click="Submit" type="warning">提交总结</el-button></div>
   </el-footer>
     </el-container>
-
   </div>
 </template>
 
@@ -223,12 +222,11 @@ const Submit = () => {
   color: black;
   font-size: 20px;
   border: 3px solid rgb(202, 8, 219);
-  width: 60%;
+  width: 600px;
  height: 700px;
   margin : auto;
   background-color: rgba(127, 242, 255,0.4);
  border-radius: 10%;
-
 }
 
 .demo-date-picker {

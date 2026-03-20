@@ -55,7 +55,8 @@ const openDetail = (index) => {
   color: black;
   font-size: 20px;
   border: 3px solid rgb(241, 15, 204);
-  width: 60%;
+  width: 600px;
+  height: 800px;
 
 margin : auto;
 background-color: rgba(127, 251, 255, 0.5);
